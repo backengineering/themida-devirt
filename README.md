@@ -4,7 +4,7 @@ This project demonstrates the effect of devirtualizing code protected by Themida
 
 | Before Virtualization                | After Devirtualization           |
 |--------------------------------------|----------------------------------|
-| ![Before Virtualization](code-before-virt.png) | ![After Devirtualization](code-after-devirt.png) |
+| ![Before Virtualization](code-before-virt.png) | ![After Devirtualization](code-after-devirt.png?v=2) |
 
 After virtualization, the code is transformed into a complex, obfuscated form that is hard to analyze. The devirtualizer restores the original logic, making the code readable again.
 
